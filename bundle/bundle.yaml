@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "KTransitBCBSM-ops-controller"
 description: "CloudBees CI configuration bundle for the KTransitBCBSM ops-controller Controller"
 parent: "base"
